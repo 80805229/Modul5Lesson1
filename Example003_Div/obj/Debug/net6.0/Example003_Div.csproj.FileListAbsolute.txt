@@ -1,0 +1,15 @@
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/bin/Debug/net6.0/Example003_Div
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/bin/Debug/net6.0/Example003_Div.deps.json
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/bin/Debug/net6.0/Example003_Div.runtimeconfig.json
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/bin/Debug/net6.0/Example003_Div.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/bin/Debug/net6.0/ref/Example003_Div.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/bin/Debug/net6.0/Example003_Div.pdb
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.csproj.AssemblyReference.cache
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.AssemblyInfoInputs.cache
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.AssemblyInfo.cs
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.csproj.CoreCompileInputs.cache
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/ref/Example003_Div.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.pdb
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example003_Div/obj/Debug/net6.0/Example003_Div.genruntimeconfig.cache
