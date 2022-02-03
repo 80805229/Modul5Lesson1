@@ -1,0 +1,15 @@
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.csproj.AssemblyReference.cache
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.AssemblyInfoInputs.cache
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.AssemblyInfo.cs
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.csproj.CoreCompileInputs.cache
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/bin/Debug/net6.0/Example002_Sum
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/bin/Debug/net6.0/Example002_Sum.deps.json
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/bin/Debug/net6.0/Example002_Sum.runtimeconfig.json
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/bin/Debug/net6.0/Example002_Sum.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/bin/Debug/net6.0/ref/Example002_Sum.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/bin/Debug/net6.0/Example002_Sum.pdb
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/ref/Example002_Sum.dll
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.pdb
+/Users/annanikonova/Library/Mobile Documents/com~apple~CloudDocs/Обучение GeekBrains/Знакомство с языками программирования/Лекции/lesson1/Example002_Sum/obj/Debug/net6.0/Example002_Sum.genruntimeconfig.cache
